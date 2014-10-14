@@ -1,3 +1,1 @@
-<h1>Why?</h1>
-
-<p>Very simple but effective HTML template!</p>
+<h2>Very simple but effective HTML template!</h2>
