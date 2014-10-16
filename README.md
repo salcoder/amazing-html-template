@@ -1,1 +1,1 @@
-<h2>Very simple but effective HTML template!</h2>
+<h3>Simple but effective HTML5 template!</h3>
